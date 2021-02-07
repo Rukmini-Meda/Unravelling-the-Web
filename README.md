@@ -7,7 +7,7 @@ Things learnt:
 Day 1
 
 - React basics till state
-- Node basic till functional expressions
+- Node basic till functional expressions, V8 engine etc.,.
 - Started a react-firebase app and made till dashboard and notifications ui
 - Installed Mongodb
 
@@ -15,6 +15,7 @@ Day 2
 
 - Modules
 - Events, event emitters
+- File IO
 
 Day 3
 
