@@ -1,6 +1,6 @@
 ## Unravelling-the-Web
 
-This repository includes all the web apps I built as part of learning web development using MERN stack.
+This repository includes all my learnings and web apps I built as part of learning web development using MERN stack.
 
 Things learnt:
 
