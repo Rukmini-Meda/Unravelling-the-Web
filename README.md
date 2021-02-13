@@ -30,6 +30,13 @@ Day 4
 - Routing
 - Introduction to Node package Manager & Express
 - Installing and uninstalling packages
+
+Day 5
+
+- Understood about package.json file
+- Installed Nodemon
+- Learnt about few important methods that can be used through an express app
+- Learnt about EJS templating engine
 <!--
 ### References
 
