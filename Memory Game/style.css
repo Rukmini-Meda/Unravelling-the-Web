@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    margin: 0;
+    padding: 15px;
+}
+
+h4{
+    margin: 0;
+}
+
+.restartButton{
+    color: black;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.gamezone{
+    margin: 20px;
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    /* 300 x 400 is suitable for 100 x 100 image */
+    height: 400px;
+    width: 500px;
+    /* margin: 20px; */
+    display: inline-block;
+}
+
+img{
+    padding: 5px;
+}
+
+.customNav{
+    background-color: yellow;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 20px;
+}
